@@ -3,18 +3,13 @@ parameters:
   addressee: Axon
   sleep_duration: 1m 30s
 
-
-
 # data below this line added by AMP EMR handler
-amp_uid: oF6l9CXv
-amp_queue_time: 2023-06-14T22:18:57.005Z
-amp_start_time: 2023-06-14T22:19:00.859Z
-amp_workflow_id: n2K8Zhj9
-amp_end_time: 2023-06-14T22:20:34.075Z
-# completed without error
+amp_uid: yQyZzVwV
+amp_queue_time: 2023-06-14T22:35:40.471Z
+amp_start_time: 2023-06-14T22:35:45.099Z
+amp_workflow_id: MP0Q3hkw
+amp_end_time: 2023-06-14T22:35:48.189Z
+${error_line}
 output: |
-  Said hi to Axon
-  
-  Then waited for 1m 30s
-  
+  ${action_output}
   
