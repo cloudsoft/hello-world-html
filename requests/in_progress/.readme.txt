@@ -1,0 +1,6 @@
+
+This folder is automatically updated with tasks that are queued by AMP for processing.
+
+This file exists so that git will not delete the directory.
+Dotfiles are not scanned as tasks.
+

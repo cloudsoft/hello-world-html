@@ -1,0 +1,7 @@
+
+This folder is automatically updated with tasks that are completed by AMP for processing.
+
+This file exists so that git will not delete the directory.
+
+Files in this folder can be safely deleted when their output is not necessary.
+
