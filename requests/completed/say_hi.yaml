@@ -4,11 +4,11 @@ parameters:
   sleep_duration: 1m 30s
 
 # data below this line added by AMP EMR handler
-amp_uid: ttLfooC5
-amp_queue_time: 2023-06-14T22:52:35.447Z
-amp_start_time: 2023-06-14T22:52:41.532Z
-amp_workflow_id: LJcdsoCP
-amp_end_time: 2023-06-14T22:54:14.788Z
+amp_uid: lqQhcKf6
+amp_queue_time: 2023-06-14T23:00:44.757Z
+amp_start_time: 2023-06-14T23:00:49.093Z
+amp_workflow_id: mYCFGnoZ
+amp_end_time: 2023-06-14T23:02:22.298Z
 # completed without error
 output: |
   Said hi to Axon
