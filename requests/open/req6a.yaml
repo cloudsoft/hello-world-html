@@ -1,0 +1,6 @@
+action: restart
+target:
+  kind: als-cluster
+  cluster_name: sre
+  deployment_name: hello-world
+
