@@ -1,0 +1,9 @@
+action: restart
+parameters:
+  kind: als-cluster
+  cluster_name: sre
+  deployment_name: hello-world
+
+# data below this line added by AMP EMR handler
+amp_uid: F7QoCJ1r
+amp_queue_time: 2023-06-14T23:07:13.355Z
