@@ -4,13 +4,17 @@ parameters:
   sleep_duration: 1m 30s
 
 
+
 # data below this line added by AMP EMR handler
-amp_uid: tPXexsvv
-amp_queue_time: 2023-06-14T22:07:58.605Z
-amp_start_time: 2023-06-14T22:08:03.069Z
-amp_workflow_id: AaVKS433
-amp_end_time: 2023-06-14T22:09:36.184Z
+amp_uid: oF6l9CXv
+amp_queue_time: 2023-06-14T22:18:57.005Z
+amp_start_time: 2023-06-14T22:19:00.859Z
+amp_workflow_id: n2K8Zhj9
+amp_end_time: 2023-06-14T22:20:34.075Z
 # completed without error
 output: |
-  (no output)
+  Said hi to Axon
+  
+  Then waited for 1m 30s
+  
   
