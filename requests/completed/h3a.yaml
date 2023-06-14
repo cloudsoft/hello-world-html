@@ -4,3 +4,8 @@ amp_uid: zALRjmNT
 amp_queue_time: 2023-06-14T22:13:48.973Z
 amp_start_time: 2023-06-14T22:14:04.749Z
 amp_workflow_id: WR1BfCGk
+amp_end_time: 2023-06-14T22:14:07.837Z
+# completed without error
+output: |
+  Said hi to world Then waited for 0ms
+  
