@@ -1,0 +1,6 @@
+
+Place new tasks to submit each as a file in this directory.
+
+This file exists so that git will not delete the directory.
+Dotfiles are not scanned as tasks.
+
