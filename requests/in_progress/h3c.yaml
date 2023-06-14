@@ -1,0 +1,9 @@
+action: say_hi
+parameters:
+  addressee: Axon 3
+  sleep_duration: 20s
+
+
+# data below this line added by AMP EMR handler
+amp_uid: ERwHbT2o
+amp_queue_time: 2023-06-14T22:13:52.883Z

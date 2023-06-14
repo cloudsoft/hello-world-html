@@ -1,6 +1,0 @@
-action: say_hi
-parameters:
-  addressee: Axon
-  sleep_duration: 20s
-
-
