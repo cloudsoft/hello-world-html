@@ -1,0 +1,22 @@
+action: restart
+target:
+  kind: als-cluster
+  cluster_name: sre
+  deployment_name: hello-world
+
+amp_uid: DqwqQmKn
+amp_submit_time: 2023-06-14T17:11:55.448Z
+amp_start_time: 2023-06-14T17:11:59.005Z
+amp_workflow_id: fGo5WMJS
+git add -A
+git commit -m "Update on start of "req4.txt""
+git push
+
+amp_end_time: 2023-06-14T17:11:59.888Z
+# completed without errors
+output: |
+sample: invalid yaml
+
+multi-line output
+
+
