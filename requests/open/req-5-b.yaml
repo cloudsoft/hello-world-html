@@ -4,5 +4,3 @@ target:
   cluster_name: sre
   deployment_name: hello-world
 
-amp_uid: pVRllmU5
-amp_submit_time: 2023-06-14T17:20:09.981Z
