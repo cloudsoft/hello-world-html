@@ -6,3 +6,5 @@ parameters:
 # data below this line added by AMP EMR handler
 amp_uid: S2eHkaP5
 amp_queue_time: 2023-06-15T12:56:35.465Z
+amp_start_time: 2023-06-15T12:56:39.612Z
+amp_workflow_id: D7Ub9weH
