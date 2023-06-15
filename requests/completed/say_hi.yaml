@@ -1,17 +1,18 @@
 action: say_hi
 parameters:
-  addressee: Axon
-  sleep_duration: 1m 30s
+  addressee: Team on Thu
+  sleep_duration: 30s
+
 
 # data below this line added by AMP EMR handler
-amp_uid: lqQhcKf6
-amp_queue_time: 2023-06-14T23:00:44.757Z
-amp_start_time: 2023-06-14T23:00:49.093Z
-amp_workflow_id: mYCFGnoZ
-amp_end_time: 2023-06-14T23:02:22.298Z
+amp_uid: X2vQe9Uy
+amp_queue_time: 2023-06-15T12:53:20.997Z
+amp_start_time: 2023-06-15T12:53:25.062Z
+amp_workflow_id: ugVCRJ2s
+amp_end_time: 2023-06-15T12:53:58.284Z
 # completed without error
 output: |
-  Said hi to Axon
+  Said hi to Team on Thu
   
-  Then waited for 1m 30s
+  Then waited for 30s
   
