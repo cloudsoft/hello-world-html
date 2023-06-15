@@ -1,4 +1,0 @@
-action: say_i_dont_know_u
-parameters:
-  addressee: Axon
-  sleep_duration: 1m 30s
