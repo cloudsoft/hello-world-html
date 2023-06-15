@@ -1,0 +1,5 @@
+action: say_hi
+parameters:
+  addressee: Team on Thu
+  sleep_duration: 30s
+
